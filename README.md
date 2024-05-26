@@ -19,3 +19,8 @@ system functionality, with automatic motor control based on pH levels, operating
 needed to maintain pH levels within predefined thresholds of less than 5.5 or greater than 6.5. Through 
 this holistic approach, our project aims to drive innovation in aeroponic agriculture, promoting 
 sustainability, efficiency, and productivity in modern farming practices
+
+**arduino_code.ino**
+move this file into the arduino IDE and after moveing delete it in the android application.
+As this file is to upload the code into the arduino atmega328p with the having proper sensors(atmega328p,pH & tds sensors,
+and the Bluetooth module).
